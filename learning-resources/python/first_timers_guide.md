@@ -3,7 +3,7 @@
 If you are brand new to Python, we recommend coming to the first meeting of the month which is First-Timers Night. You are welcome to come any week, but that first Thursday will always cater to beginners.
 
 ## What is Python?
-Python is a powerful and approachable programming language. It has an easy-to-learn syntax, which makes it an excellent language for beginners. Out of the box, Python is a powerful scripting language. It can be used to write all kinds of programs, from a simple tip-calculator to a fully-featured command-line Twitter client, or a program that automatically corrects your code for style consistency.
+Python is a powerful and approachable programming language. It has an easy-to-learn syntax, which makes it an excellent language for beginners. Out-of-the-box, Python is a powerful scripting language. It can be used to write all kinds of programs, from a simple tip-calculator to a fully-featured command-line Twitter client, or a program that automatically corrects your code for style consistency.
 
 Additionally, the Python community provides a variety of tools for common applications. For web development, [Django](https://www.djangoproject.com/) is a fully-featured web framework, similar to Ruby on Rails. It powers a lot of popular websites, including Pinterest and Instagram. There are also lightweight web framework options, like [Flask](http://flask.pocoo.org/).
 
